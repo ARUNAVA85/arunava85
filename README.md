@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/this_is_arunava" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_arunava?logo=twitter&style=for-the-badge" alt="this_is_arunava" /></a> </p>
 
-- 🌱 I’m currently learning **html, css and javascript, core java**
-- 📝 I regularly write articles on [https://arunava0805.medium.com/array-and-pointers-concept-in-brief-63e8619173d](https://arunava0805.medium.com/array-and-pointers-concept-in-brief-63e8619173d)
+- 🌱 I’m currently learning **html, css and javascript, core java
 
 - 💬 Ask me about **html, css, javascript, core java**
 
@@ -15,6 +14,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- <a href = "https://arunava0805.medium.com/array-and-pointers-concept-in-brief-63e8619173d" > Array and Pointer concept(in brief)</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
